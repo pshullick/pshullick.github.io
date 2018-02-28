@@ -1,0 +1,165 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+h1{color:rgba(35,20,95,1.00);
+font-family: 'Oswald', sans-serif;
+text-align: center;}
+
+h2{color: rgba(0,116,120,1.00);
+	font-family:'Copse',serif;
+	text-align: center;}
+
+body{margin:25px;
+	background: rgba(221,225,233,1.00);
+	color:rgba(35,20,95,1.00);
+	font-family:'Average Sans', sans-serif;}
+
+a:link{color: rgba(221,225,233,1.00);
+	text-decoration:none;}
+a:hover{color: rgba(187,67,39,1.00);
+	text-decoration:none;}
+a:active{color: rgba(221,225,233,1.00);
+	text-decoration:none;}
+a:visited{color: rgba(221,225,233,1.00);
+	text-decoration:none;}
+
+
+img{display: block;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+#logo{margin-bottom: 10px; }
+
+
+
+
+
+/*------------------begin nav ---------------------*/ 
+nav{color:rgba(221,225,233,1.00);
+	background:rgba(35,25,95,1.00);
+	font-family: 'Oswald', sans-serif;
+	width:100%;
+	height: 50px;
+}
+
+#nav_container{
+	align-content: center;
+	width:100%;
+	padding:15px;
+	font-family: 'Oswald', sans-serif;
+	margin:0px auto;
+}
+
+nav ul li{display:block;
+		postion:relative;
+		float:left;
+}
+
+
+nav ul{font-family: 'Oswald', sans-serif ;
+		font-size: 20px;
+		margin:0;
+		padding: 0;
+		list-style: none;
+}
+
+nav li ul{
+	display: none
+}
+
+nav ul li a{
+	display:block;
+	text-decoration: none;
+	padding: 7px 15px 3px 15px;
+	background:rgba(35,25,95,1.00);
+	color: rgba(160,170,236,1.00);
+	
+	white-space:nowrap;
+	height:30px;
+	width:240px;
+	text-align: center;	
+}
+
+nav li:hover ul{
+	display:block;
+	position: absolute;
+	height: 30px;
+}
+
+nav li:hover ul{color: rgba(187,67,39,1.00);
+	float: none;
+}
+
+
+/*------------------end nav ------------------------*/ 
+
+
+
+
+
+
+#featurebanner{background: rgba(221,225,233,1.00);
+	align-content: center;
+	margin: 25px auto;
+	width:100%;
+	
+}
+
+
+#body{margin: 50px;
+line-height: 1.4 }
+
+
+
+#footercontainer{background: rgba(35,20,95,1.00);
+	width: 100%;
+	height: 220px;
+	margin: 0px auto;
+	
+	
+}
+
+.foot50{
+	float:left;
+	width: 570px;
+	padding-top: 30px;
+	padding-left: 25px;
+	
+}
+
+
+.foot25{
+	color:rgba(221,225,233,1.00); 
+	width: 285px;
+	float:left;
+	list-style: none;
+	text-decoration: none;
+	text-align: right;
+	padding-right: 10px;
+	padding-top: 20px;
+	padding-bottom: 25px;
+	
+	
+}
+
+.socialfoot{color:rgba(221,225,233,1.00); 
+	width: 285px;
+	float:left;
+	list-style: none;
+	text-decoration: none;
+	text-align: right;
+	padding-right: 10px;
+	padding-top: 35px;
+	padding-bottom: 20px;}
+
+.iconspacing{padding:3px }
+
+#planets{background:rgba(0,116,120,1.00);
+	height:25px;
+	margin:10px auto;
+	padding-left: 20px;
+	float: center;
+	align-content:center;
+text-align: center;}
