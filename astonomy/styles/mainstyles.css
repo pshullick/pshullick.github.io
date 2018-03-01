@@ -163,3 +163,9 @@ line-height: 1.4 }
 	float: center;
 	align-content:center;
 text-align: center;}
+
+#video{
+	align-content:center;
+	margin:auto;
+	padding-bottom:50px;
+}

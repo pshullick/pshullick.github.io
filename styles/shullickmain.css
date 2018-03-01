@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1{font-family: 'Cookie', cursive;
+	color: rgba(152,32,47,1.00);}
+
+h2{font-family: 'Alice', serif;
+	color: rgba(152,32,47,1.00);}
+
+body{font-family: 'Raleway', sans-serif;
+	color: rgba(41,78,123,1.00);
+	background: rgba(200,200,200,1.00);	
+}
+
+a:link{color: rgba(41,78,123,1.00);
+	text-decoration:none;}
+a:hover{color: rgba(41,78,123,1.00);
+	text-decoration:none;}
+a:active{color: rgba(41,78,123,1.00);
+	text-decoration:none;}
+a:visited{color: rgba(41,78,123,1.00);
+	text-decoration:none;}
+
+
+#banner{background:rgba(119,171,186,1.00);
+	height: 150px;
+	align-content: center;
+	text-align: center;
+}
+
+
+nav{
+	background: rgba(205,205,205,1.00);
+	height: 50px;
+	width:100%;
+	font-family: 'Raleway', sans-serif;
+}
+
+nav ul li{display:block;
+		postion:relative;
+		float:left;
+		width: 450px;
+		align-content: center;
+		text-align: center;
+}
+
+
+nav ul{font-family: 'Raleway', sans-serif ;
+		font-size: 20px;
+		margin:0;
+		padding: 0;
+		list-style: none;}
