@@ -1,28 +1,28 @@
 @charset "UTF-8";
 /* CSS Document */
 
-h1{font-family: 'Cookie', cursive;
-	color: rgba(152,32,47,1.00);}
+h1{font-family: 'Alice', serif;
+	color: rgba(124,68,85,1.00);}
 
 h2{font-family: 'Alice', serif;
-	color: rgba(152,32,47,1.00);}
+	color: rgba(124,68,85,1.00);}
 
 body{font-family: 'Raleway', sans-serif;
 	color: rgba(41,78,123,1.00);
 	background: rgba(200,200,200,1.00);	
 }
 
-a:link{color: rgba(41,78,123,1.00);
+a:link{color: rgba(124,68,85,1.00);
 	text-decoration:none;}
 a:hover{color: rgba(41,78,123,1.00);
 	text-decoration:none;}
 a:active{color: rgba(41,78,123,1.00);
 	text-decoration:none;}
-a:visited{color: rgba(41,78,123,1.00);
+a:visited{color: rgba(124,68,85,1.00);
 	text-decoration:none;}
 
 
-#banner{background:rgba(119,171,186,1.00);
+#banner{background:rgba(147,170,161,1.00);
 	height: 150px;
 	align-content: center;
 	text-align: center;
@@ -31,7 +31,8 @@ a:visited{color: rgba(41,78,123,1.00);
 
 nav{
 	background: rgba(205,205,205,1.00);
-	height: 50px;
+	height: 30px;
+	padding-top: 5px;
 	width:100%;
 	font-family: 'Raleway', sans-serif;
 }
@@ -50,3 +51,18 @@ nav ul{font-family: 'Raleway', sans-serif ;
 		margin:0;
 		padding: 0;
 		list-style: none;}
+
+#portrait{ width:100%
+	}
+
+
+footer{
+	background: rgba(255,255,255,1.00);
+	height: 200px;
+	width:100%;
+	align-content: center;
+	text-align: center;
+	padding-top: 15px;
+	
+	
+}
