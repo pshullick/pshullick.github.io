@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/* CSS Document */
+
+header{height: 225px;
+	width: 100%;
+	background: rgba(172,126,87,1.00);
+	color: rgba(255,255,255,1.00);
+	white-space: nowrap;
+	margin: 0px;
+	padding:0px;
+	
+}
+
+a:link{color: rgba(255,255,255,1.00);
+	text-decoration:none;}
+a:hover{color: rgba(241,226,204,1.00);
+	text-decoration:none;}
+a:active{color: rgba(255,255,255,1.00);
+	text-decoration:none;}
+a:visited{color: rgba(255,255,255,1.00);
+	text-decoration:none;}
+
+
+.logo{align-content: center;
+	
+	
+}
+
+label{font: 30px }
+
+h1{font-family:'Pattaya', sans-serif;
+}
+
+body{height:800px;
+	background: rgba(172,126,87,1.00);
+	margin: 0px;
+	padding:0px;
+}
+
+#maincontent{position:relative;
+}
+
+
+#mc_embed_signup{background:rgba(255,255,255,0.50); clear:left; font:80px; font-family:"Unkempt",serif; width:400px;
+	align-content: center;
+	text-align: center;
+	height: 200px;
+	padding:10px;
+	position:absolute;
+	left: 800px;
+	top: 165px;
+	padding-top: 50px;
+	
+}
+
+footer{height:150px;
+	width:100%;
+	align-content: center;
+	text-align: center;
+	padding-top: 15px;
+	}
+
+p{font-family: 'Unkempt', cursive;
+}
