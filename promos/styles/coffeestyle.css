@@ -45,12 +45,12 @@ body{height:800px;
 #mc_embed_signup{background:rgba(255,255,255,0.50); clear:left; font:80px; font-family:"Unkempt",serif; width:400px;
 	align-content: center;
 	text-align: center;
-	height: 400px;
-	padding:10px;
+	height: auto;
+	padding:20px;
 	position:absolute;
 	left: 800px;
-	top: 60px;
-	padding-top: 30px;
+	top: 70px;
+	
 	
 }
 
