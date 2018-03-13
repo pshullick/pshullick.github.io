@@ -29,6 +29,7 @@ a:visited{color: rgba(255,255,255,1.00);
 label{font: 30px }
 
 h1{font-family:'Pattaya', sans-serif;
+	font-size: 50px;
 }
 
 body{height:800px;
@@ -44,12 +45,12 @@ body{height:800px;
 #mc_embed_signup{background:rgba(255,255,255,0.50); clear:left; font:80px; font-family:"Unkempt",serif; width:400px;
 	align-content: center;
 	text-align: center;
-	height: 200px;
+	height: 400px;
 	padding:10px;
 	position:absolute;
 	left: 800px;
-	top: 165px;
-	padding-top: 50px;
+	top: 60px;
+	padding-top: 30px;
 	
 }
 
@@ -61,4 +62,5 @@ footer{height:150px;
 	}
 
 p{font-family: 'Unkempt', cursive;
+	font-size: 20px;
 }
