@@ -21,7 +21,9 @@ p{font-family: 'Open Sans', sans-serif;
 
 nav{color: #009999;
 width: 1140px;
-height: 100px;}
+height: 100px;
+margin: 0 auto;
+}
 
 
 	
@@ -109,9 +111,12 @@ a:link{color: #009999;
 
 
 .navbar{height:100px;
-	width:175px;
+	width:200px;
 	float: left;
 margin-top: 30px;
+	margin-left: 0 auto;
+	margin-right: 0 auto;
+	margin-bottom: 0 auto;
 text-decoration: none;
 	align-content: center;
 	font-family: 'open sans', sans-serif;
@@ -138,6 +143,9 @@ text-decoration: none;
   text-decoration: none;
 	font-family: 'open sans', sans-serif;
 	margin-top: 30px;
+	margin-left: 0 auto;
+	margin-right: 0 auto;
+	margin-bottom: 0 auto;
 	
 }
 
@@ -205,10 +213,11 @@ text-decoration: none;
 height: 500px;
 }
 
-.infophoto{margin: 50px;
+.infophoto{margin: 50px auto;
 	height: 400px;
 	width: 300px;
 	float: left;
+	
 	
 }
 .info{margin-top: 75px;
@@ -218,6 +227,8 @@ height: 500px;
 	text-align: left;
 	line-height: 25px;
 	margin-right: 75px;
+	margin-left: 0 auto;
+	margin-bottom: 0 auto;
 	
 	
 }
@@ -254,7 +265,7 @@ height: 500px;
 
 #bubbles{width:1140px;
 height: 300px;
-	;
+	margin:0px auto;
 	
 }
 
@@ -288,7 +299,7 @@ height: 300px;
 
 #banner{width: 1140px;
 		height: 350px;
-		margin: 0px;
+		margin: 0px auto;
 		padding: 0px;
 		position: absolute;
 }
@@ -364,7 +375,7 @@ height: 300px;
 /*-----------fish bubbles -------------------*/
 
 #fish1{height:200px;
-	margin: 42px;
+	margin: 42px ;
 	width:200px;
 	color: #fffff;
 	border-radius: 50%;
