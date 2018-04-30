@@ -270,7 +270,7 @@ height: 300px;
 }
 
 .circle{height:200px;
-	margin: 42px;
+	margin: 42px auto;
 	width:200px;
 	color: #fffff;
 	background: #009999;
