@@ -265,12 +265,11 @@ height: 500px;
 
 #bubbles{width:1140px;
 height: 300px;
-	margin:0px auto;
-	
+margin: 0px auto;
 }
 
 .circle{height:200px;
-	margin: 42px auto;
+	margin: 42px;
 	width:200px;
 	color: #fffff;
 	background: #009999;
