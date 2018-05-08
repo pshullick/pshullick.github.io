@@ -24,6 +24,12 @@ font-style: normal;
 font-weight: 700;
 font-size: 1em;}
 
+p{font-family: europa, sans-serif;
+	font-style: normal;
+font-weight: 700;
+	font-size: .75em;
+}
+
 #logotop{
 	align-content: center;
 	margin-top: 25px;
