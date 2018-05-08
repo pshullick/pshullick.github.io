@@ -22,7 +22,8 @@ font-size: 2em;
 h3{font-family: europa, sans-serif;
 font-style: normal;
 font-weight: 700;
-font-size: 1em;}
+font-size: 1em;
+}
 
 p{font-family: europa, sans-serif;
 	font-style: normal;
@@ -78,6 +79,10 @@ margin: 0 auto;
 	float: left;
 }
 
+#book{text-align: center;
+	margin: 10px;
+	color: #da3b3d;
+}
 
 #socials{align-content: center;
 float: left;
