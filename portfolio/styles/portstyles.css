@@ -10,6 +10,7 @@ body{
 
 h1{font-family:europa, sans-serif;
 	font-size: 4em;
+	color: #DA3B3D
 	
 }
 
@@ -97,4 +98,16 @@ footer{color:#DA3B3D;
 	
 	
 	
+}
+
+ul li{font-family: europa, sans-serif;
+	font-style: normal;
+font-weight: 700;
+	font-size: 1em;
+}
+
+ul{font-family: europa, sans-serif;
+	font-style: normal;
+font-weight: 700;
+	font-size: 1em;
 }
