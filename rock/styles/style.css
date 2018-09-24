@@ -305,8 +305,8 @@ background: rgba(23,43,55,1.00);
 
 
 footer{width:100%;
-height: 220px;
-background: rgba(23,43,55,1.00);
+	height: 220px;
+	background: rgba(23,43,55,1.00);
 	margin: 0 auto;
-	padding-bottom: 40px;
+	padding-bottom: 45px;
 }
