@@ -36,7 +36,7 @@ h5{font-family: 'Oswald', sans-serif;
 	font-size: 1em;
 }
 h6{font-family: 'Changa', sans-serif;
-	font-size: .5em;
+	font-size: 1em;
 	
 }
 p{font-family: 'Oswald', sans-serif;
@@ -59,7 +59,8 @@ p{font-family: 'Oswald', sans-serif;
 
 nav{
 	background: rgba(23,43,55,1.00);
-	height: 70px;
+	height: 60px;
+	padding-bottom: 10px;
 	width: 1200px;
 	
 }
