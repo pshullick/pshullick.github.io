@@ -16,26 +16,26 @@ a:link{color: rgba(184,194,193,1.00);
 	text-decoration:none;}
 
 
-h1{font-family: "komu", sans-serif;
+h1{font-family: 'Changa', sans-serif;
 	font-size: 3em;
 }
 
-h2{font-family: "atrament", sans-serif;
+h2{font-family: 'Oswald', sans-serif;
 	font-size: 2em;
 }
 
-h3{font-family: "komu", sans-serif;
+h3{font-family: 'Changa', sans-serif;
 	font-size: 1.5em;
 }
 	
-h4{font-family: "atrament", sans-serif;
+h4{font-family: 'Oswald', sans-serif;
 	font-size: 1.5em;
 }
 
-h5{font-family: "atrament", sans-serif;
+h5{font-family: 'Oswald', sans-serif;
 	font-size: 1em;
 }
-h6{font-family: "komu", sans-serif;
+h6{font-family: 'Changa', sans-serif;
 	font-size: .5em;
 	
 }
@@ -161,7 +161,7 @@ background: rgba(23,43,55,1.00);
 	color: rgba(49,114,145,1.0);
 	letter-spacing: 2px;
 	text-align: center;
-	line-height: 10px;
+	line-height: 40px;
 	
 }
 
