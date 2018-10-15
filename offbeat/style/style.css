@@ -59,7 +59,17 @@ color: rgba(246,246,246,1.00);}
 .upcoming{color: rgba(75,4,79,1.00);}
 
 
+#purple{height: 100px;
+width: 100%;
+background: rgba(75,4,79,1.00);
+color:rgba(255,255,255,1.00);}
 
+#g{height: 100px;
+width: 100%;
+background: rgba(166,163,166,1.00);
+color:rgba(255,255,255,1.00);
+	
+}
 
 .jumbo{
 	background: url(../images/concert.jpg) no-repeat scroll center center /cover ;
