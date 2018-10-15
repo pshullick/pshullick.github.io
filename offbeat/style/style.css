@@ -36,8 +36,8 @@ color: rgba(75,4,79,1.00);
 
 .social{
 	text-align: right;
-
 	height:35px;
+	align-content: right;
 	
 		
 }
@@ -71,6 +71,11 @@ color: rgba(246,246,246,1.00);}
 	color: rgba(239,235,235,1.00);
 }
 
+.jumborks{
+	background: url(../images/rks.jpg) no-repeat scroll center center /cover ;
+	color: rgba(255,255,255,1.00);
+}
+
 
 .btn-warped{
 	color: rgba(113,110,110,1.00);
@@ -82,7 +87,7 @@ color: rgba(246,246,246,1.00);}
 }
 
 .logo{align-content: center;
-height: 200px;}
+height: 150px;}
 
 .breadcrumb{font-family: "rift", sans-serif;
 background: rgba(255,255,255,1.00);}
@@ -94,7 +99,8 @@ background: rgba(255,255,255,1.00);}
 	
 }
 
-.footer{height:230px;
+.footer{height:300px;
+	width: 100%;
 	background: rgba(166,163,166,1.00);
 	color:rgba(255,255,255,1.00);
 }
