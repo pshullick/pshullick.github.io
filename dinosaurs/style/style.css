@@ -17,26 +17,49 @@ p{font-family: 'Roboto Condensed', sans-serif;}
 /* adjuct display 1 per screen size */
 @media screen and (max-width:3000px){
 	h1.display-1{
-		font-size:8em !important;}}
+		font-size:6em !important;}}
 	
 	
 @media screen and (max-width:1140px){
 	h1.display-1{
-		font-size:7em !important;}}
+		font-size:5em !important;}}
 	
 @media screen and (max-width:960px){
 	h1.display-1{
-		font-size:6em !important;}}
+		font-size:4em !important;}}
 	
 	
 @media screen and (max-width:720px){
-	h1.display-1{
-		font-size:5em !important;}}
+	h2.display-1{
+		font-size:3em !important;}}
 	
 	
 @media screen and (max-width:540px){
 	h1.display-1{
-		font-size:4em !important;}}
+		font-size:2em !important;}}
+
+@media screen and (max-width:3000px){
+	h2.display-1{
+		font-size:3em !important;}}
+	
+	
+@media screen and (max-width:1140px){
+	h2.display-1{
+		font-size:2.5em !important;}}
+	
+@media screen and (max-width:960px){
+	h3.display-1{
+		font-size:2em !important;}}
+	
+	
+@media screen and (max-width:720px){
+	h4.display-1{
+		font-size:1.5em !important;}}
+	
+	
+@media screen and (max-width:540px){
+	h5.display-1{
+		font-size:2em !important;}}
 	
 .myisland{
 	background: url("../image/trip-La.jpg") no-repeat scroll center center /cover;
@@ -178,7 +201,7 @@ nav.navbar.shrink {
 
 .bonetext{margin-top: -200px;
 	
-color: #FFFFFF;}
+color: #000000;}
 
 
 .ghost-button-transition {
