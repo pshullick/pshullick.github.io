@@ -102,10 +102,15 @@ text-decoration:none;
 }
 a:active{color: #656565;
 text-decoration:none;}
-a:visited{color: #316C1C;
+a:visited{color: #000000;
 text-decoration:none;}
 
-body{min-height: 1500px;}
+body{min-height: 100px;}
+
+.bcolor{
+	background: #D2C68D !important; 
+	color: #5D4310;
+}
 
 /* menu + shrink */
 
@@ -238,8 +243,7 @@ color: #000000;}
 }
 
 footer{
-	background: #EBE6D0;
-	height: 220px;
+	background: #D2C68D;
 }
 
 .logo{align-content: right;
