@@ -213,6 +213,12 @@ nav.navbar.shrink{
 	padding: 100px;
 }
 
+.whatbanner{background:url("../image/bone2.jpg")scroll center center / cover;
+	color: #FFFFFF;
+	min-height: 600px;
+	padding: 100px;
+}
+
 
 .bonetext{margin-top: -200px;
 	
