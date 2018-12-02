@@ -65,21 +65,21 @@ p{font-family: europa, sans-serif;
 	
 @media screen and (max-width:1140px){
 	h2.display-1{
-		font-size:2.5em !important;}}
+		font-size:3.5em !important;}}
 	
 @media screen and (max-width:960px){
 	h2.display-1{
-		font-size:2em !important;}}
+		font-size:3em !important;}}
 	
 	
 @media screen and (max-width:720px){
 	h2.display-1{
-		font-size:1.5em !important;}}
+		font-size:2.5em !important;}}
 	
 	
 @media screen and (max-width:540px){
 	h2.display-1{
-		font-size:1em !important;}}
+		font-size:2em !important;}}
 
 @media screen and (max-width:3000px){
 	h3.display-1{
