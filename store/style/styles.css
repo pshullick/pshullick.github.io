@@ -158,6 +158,16 @@ p{font-family: europa, sans-serif;
 
 nav{ font-family: europa, sans-serif;}
 
+.navbar-toggler-icon{color: rgba(242,115,124,1.00) !important;
+border-color:  rgba(242,115,124,1.00);
+}
+
+.navbar-toggler{color: rgba(242,115,124,1.00) !important;
+border-color:  rgba(242,115,124,1.00);
+}
+
+.navbar-light{color: rgba(242,115,124,1.00) !important;}
+
 .topbar{background: rgba(154,217,228,1.00);
 	font-family: europa, sans-serif;
 color: rgba(253,253,253,1.00);}
@@ -185,6 +195,13 @@ nav a:link{color: rgba(242,115,124,1.00);}
 nav a:visited{color: rgba(242,115,124,1.00);}
 nav a:hover{color: rgba(210,101,109,1.00);}
 nav a:active{color: rgba(242,115,124,1.00);}
+
+.navbar-light a:link{color: rgba(242,115,124,1.00);}
+.navbar-light a:visited{color: rgba(242,115,124,1.00);}
+.navbar-light a:hover{color: rgba(210,101,109,1.00);}
+.navbar-light a:active{color: rgba(242,115,124,1.00);}
+
+
 
 .navbar-toggler-icon{border-color: rgba(242,115,124,1.00);
 border-width: 3px;}
