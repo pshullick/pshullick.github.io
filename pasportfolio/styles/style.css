@@ -240,11 +240,12 @@ color: rgba(255,255,255,1.00);}
 }
 
 .ghost-button {
+	font-family: europa;
   display: inline-block;
   width: 200px;
   padding: 8px;
-  color: #fff;
-  border: 1px solid #fff;
+  color: #000;
+  border: 1px solid #000;
   text-align: center;
   outline: none;
   text-decoration: none;
@@ -252,7 +253,7 @@ color: rgba(255,255,255,1.00);}
 
 .ghost-button:hover,
 .ghost-button:active {
-  background-color: #fff;
+  background-color: #848181;
   color: #000;
 }
 
