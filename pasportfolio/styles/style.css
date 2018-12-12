@@ -239,23 +239,26 @@ color: rgba(255,255,255,1.00);}
   transform: translate3d(0,0,0);
 }
 
-.ghost-button {
-	font-family: europa;
+.ghost-button-transition {
   display: inline-block;
   width: 200px;
   padding: 8px;
   color: #000;
-  border: 1px solid #000;
+  border: 2px solid #000;
   text-align: center;
   outline: none;
   text-decoration: none;
+  transition: background-color 0.2s ease-out,
+              color 0.2s ease-out;
+}
+.ghost-button-transition:hover,
+.ghost-button-transition:active {
+  background-color: #403F3F;
+  color: #fff;
+  transition: background-color 0.3s ease-in,
+              color 0.3s ease-in;
 }
 
-.ghost-button:hover,
-.ghost-button:active {
-  background-color: #848181;
-  color: #000;
-}
 
 
 /*-------------------------------endd hover---------------------------------*/
