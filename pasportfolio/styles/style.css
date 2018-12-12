@@ -1,9 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
 
-h1{font-family: "europa-bold";}
-h2{font-family: "europa-bold";}
-h3{font-family: "europa-bold";}
+h1{font-family: "europa";}
+h2{font-family: "europa";}
+h3{font-family: "europa";}
 h4{font-family: "europa";}
 h5{font-family: "europa";}
 p{font-family: "europa";}
@@ -136,7 +136,7 @@ a:hover{color: rgba(49,49,49,1.00);}
 a:active{color: rgba(49,49,49,1.00);}
 
 
-nav{ font-family: "europa-bold";}
+nav{ font-family: "europa";}
 
 .gallery-col{margin: 0 !important;}
 
