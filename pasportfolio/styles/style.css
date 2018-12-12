@@ -240,6 +240,7 @@ color: rgba(255,255,255,1.00);}
 }
 
 .ghost-button-transition {
+	font-family: europa;
   display: inline-block;
   width: 200px;
   padding: 8px;
